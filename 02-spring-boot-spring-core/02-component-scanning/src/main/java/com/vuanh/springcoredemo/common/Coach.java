@@ -1,4 +1,4 @@
-package com.vuanh.springcoredemeo;
+package com.vuanh.springcoredemo.common;
 
 public interface Coach {
 
